@@ -20,6 +20,7 @@ install_requires = [
     "protobuf==5.28.3",
     "pydantic==2.9.2",
     "transformers==4.46.0",
+    "torch"
 ]
 
 # 平台特定依赖
